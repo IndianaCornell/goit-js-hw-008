@@ -16,12 +16,6 @@ ul {
   gap: 24px;
 }
 
-.gallery_item {
-  display: block;
-  width: 360px;
-  height: 200px;
-}
-
 .gallery_image {
   display: block;
   width: 360px;
